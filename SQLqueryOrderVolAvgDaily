@@ -1,0 +1,2 @@
+SELECT Avg(OrderVolume.CountOfid) AS AvgOfCountOfid
+FROM OrderVolume;
